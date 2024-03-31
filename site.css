@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('Roboto-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body { 
+  display: block;
+  text-align: center;
+  margin: 0px;
+  background-image: url("assets/background.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-size: 64px;
+}
