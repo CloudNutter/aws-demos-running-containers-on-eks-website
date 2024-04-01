@@ -9,11 +9,11 @@ body {
   display: block;
   text-align: center;
   margin: 0px;
-  background-image: url("assets/background.jpg");
+  background-image: url("background.jpg");
   background-size: cover;
 }
 
 h1 {
   color: white;
-  font-size: 64px;
+  font-size: 92px;
 }
