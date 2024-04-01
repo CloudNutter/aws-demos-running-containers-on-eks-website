@@ -2,6 +2,13 @@
 
 A sample website for demonstration with the AWS course Running Containers on EKS
 
+First, install Helm 3
+
+```bash
+curl -sSL https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash
+helm version --short
+```
+
 This presumes you already deployed the Bitnami nginx Helm chart to Kubernetes. The [docs are here](https://artifacthub.io/packages/helm/bitnami/nginx)
 
 ```bash
